@@ -1,1 +1,2 @@
-My name isgta. This is my first commit
+My name is gta. This is my first commit
+I have changed the first file 
